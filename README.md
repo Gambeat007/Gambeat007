@@ -8,4 +8,4 @@
 - 💞️ I’m looking for work opportunities - junior software developer/engineer.
 - 📫 How to reach me? laszek.lukasz(at)gmail.com
 
-My motto: "Don't try be better than others, be better than yourself"
+My motto: "Don't try to be better than others, be better than yourself."
