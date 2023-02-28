@@ -12,7 +12,7 @@ I like to plan, optimse and increase efectiveness of processes in a business and
 I am practising self-awareness and observation skills.
 
 Current technologies:
-Backend: Java, Spring
+Backend: Java, Spring,
 Frontend: Typescript, React
 
 If you want to contact me, send email to: laszek.lukasz(at)gmail.com,
