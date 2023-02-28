@@ -1,11 +1,21 @@
-- 👋 Hi, I’m Łukasz Łaszek (Gambeat007)
+👋 Hi, I’m Łukasz Łaszek (Gambeat007)!
 
-- 👀 I’m interested in coding, jazz/blues/funk/rock music and bicycle traveling. 
-- 🌱 I’m currently learning: 
-- Backend: Java / Spring, .Boot, .DataJPA, .Security / Hibernate
-- Frontend: Javascript, Typescript, React
+Today I am working on being better person than I was yesterday. 
+My motto is: "Don't try to be better than others, be better than yourself".
 
-- 💞️ I’m looking for work opportunities - junior software developer/engineer.
-- 📫 How to reach me? laszek.lukasz(at)gmail.com
+I believe that hard work full of mistakes is a best way to learn coding, 
+because in my opnion learn to code is not hard - it is very demanding.
+I wish I can be great "lazy" (lazy in a good meaning) developer. 
+Clean Code, KISS, DRY, YAGNI are my best friends. 
 
-My motto: "Don't try to be better than others, be better than yourself."
+I like to plan, optimse and increase efectiveness of processes in a business and personal life. 
+I am practising self-awareness and observation skills.
+
+Current technologies:
+Backend: Java, Spring
+Frontend: Typescript, React
+
+If you want to contact me, send email to: laszek.lukasz(at)gmail.com,
+cheers!
+--
+ŁŁ.
