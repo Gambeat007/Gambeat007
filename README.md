@@ -11,7 +11,7 @@ Clean Code, KISS, DRY, YAGNI are my best friends.
 I like to plan, optimse and increase efectiveness of processes in a business and personal life. 
 I am practising self-awareness and observation skills.
 
-Current technologies: backend: Java, Spring, frontend: Typescript, React.
+Current technologies - backend: Java, Spring, frontend - Typescript, React.
 Helpers: Maven, Swagger, Postman.
 
 If you want to contact me, send email to: laszek.lukasz(at)gmail.com,
