@@ -1,15 +1,23 @@
-👋 Hi, I’m Łukasz Łaszek (Gambeat007)!
+👋 Hi, I'm Łukasz (Gambeat007)!
 
-Today I am working on being better person than I was yesterday. My motto is: "Don't try to be better than others, be better than yourself".
+Every day, I strive to become a better version of myself. My personal motto is:
+"Don't try to be better than others. Try to be better than you were yesterday."
 
-I believe that hard work full of mistakes is a best way to learn coding, because in my opnion learn to code is not hard - it is very demanding.
+I believe that hard work, experimentation, and learning from mistakes are the best ways to become a better developer. 
+In my opinion, learning to code isn't necessarily difficult — it's demanding. It requires patience, curiosity, consistency, and perseverance.
 
-I like to plan, optimse and increase efectiveness of processes in a business and personal life. I am practising self-awareness and observation skills.
+I enjoy planning, optimizing processes, and improving efficiency in both: my professional and personal life. 
+I also actively develop my self-awareness, analytical thinking, and observation skills.
 
-Current technologies: Java, Spring, Typescript, React with helpers: Maven, Swagger, Postman.
+### 💻 Technologies I work with
+- Java
+- Spring
+- TypeScript
+- React
+- SQL
 
-If you want to contact me, send an email to: laszek.lukasz(at)gmail.com
+### 📫 Get in touch
+Feel free to contact me at: github.5xrwd[at]passmail.com
 
 Cheers!
-
-Ł.Ł.
+Ł.
